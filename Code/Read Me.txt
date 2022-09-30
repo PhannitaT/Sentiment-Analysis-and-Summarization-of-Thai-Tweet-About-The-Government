@@ -1,0 +1,8 @@
+เรียงลำดับโค้ดที่ใช้ในการวิเคราะห์ข้อมูล
+1. snscraping_Twitter_gov
+2. Preprocessing
+3. Sentiment
+4. Manage_Data
+5. Check_F1_Score
+6. Sum_Freq_Top100
+7. Sum_mT5_Top100
