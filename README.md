@@ -12,6 +12,6 @@ Summarization (Frequency of Word)  : [![Open In Colab](https://colab.research.go
 Summarization (mT5)                : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BH-p-9ibhxvH3HP_ZS-ws5JAOK4XOFSP?usp=sharing)
 
 # Poster
-![](https://github.com/PhannitaT/Sentiment-Analysis-and-Summarization-of-Thai-Tweet-About-The-Government/blob/main/Images/Sentiment%20and%20Sum%20about%20Gov%20Poster_Page_1.png)
+![](https://github.com/PhannitaT/Sentiment-Analysis-and-Summarization-of-Thai-Tweet-About-The-Government/blob/main/Images/Slide1.PNG)
 
-![](https://github.com/PhannitaT/Sentiment-Analysis-and-Summarization-of-Thai-Tweet-About-The-Government/blob/main/Images/Sentiment%20and%20Sum%20about%20Gov%20Poster_Page_2.png)
+![](https://github.com/PhannitaT/Sentiment-Analysis-and-Summarization-of-Thai-Tweet-About-The-Government/blob/main/Images/Slide2.PNG)
